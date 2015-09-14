@@ -1,0 +1,20 @@
+{
+  "name": "fullpage",
+  "version": "1.0.0",
+  "homepage": "https://github.com/shawnLiujianwei/fullpage",
+  "authors": [
+    "Shawn Liu <shawn.liu@dotter.me>"
+  ],
+  "main": "./js/fullPage.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
